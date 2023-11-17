@@ -1,0 +1,14 @@
+{
+  "resourceName": "resource",
+  "policyUUID": "b83ec255",
+  "bucketName": "maintessleless",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tessleless-dev-61613-authRole",
+      "UnauthRoleArn": "arn:aws:iam::027725982419:role/amplify-tessleless-dev-61613-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::027725982419:role/amplify-tessleless-dev-61613-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-tessleless-dev-61613-deployment",
+      "UnauthRoleName": "amplify-tessleless-dev-61613-unauthRole",
+      "StackName": "amplify-tessleless-dev-61613",
+      "StackId": "arn:aws:cloudformation:us-east-2:027725982419:stack/amplify-tessleless-dev-61613/822c1e00-6beb-11ee-9823-0ade8f8dca01",
+      "AmplifyAppId": "d1izyhrdvie466"
+    },
+    "categories": {
+      "auth": {
+        "tessleless4ce3590f": {}
+      },
+      "storage": {
+        "resource": {}
+      },
+      "hosting": {
+        "S3AndCloudFront": {}
+      }
+    }
+  }
+}
