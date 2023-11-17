@@ -1,0 +1,3 @@
+[submodule "s3uploader-ui"]
+	path = s3uploader-ui
+	url = https://tlavette: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@github.com/saharatss-sjsu/CMPE281-P2-FrontEnd.git
